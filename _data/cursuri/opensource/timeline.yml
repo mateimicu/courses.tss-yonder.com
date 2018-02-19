@@ -11,7 +11,7 @@
   point:
     class: 'black'
     icon: 'fas fa-book'
-  heading: 'Curs: <a href="#">Software - aspecte generale și istoric</a>'
+  heading: 'Curs: <a href="curs-1">Software - aspecte generale și istoric</a>'
   body: >
     O parte dintre aspectele abordate în cadrul cursului:
     <ul>
